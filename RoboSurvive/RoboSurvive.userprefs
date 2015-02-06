@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AffectModel.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AffectModel.cs" Line="202" Column="1476" />
+      <File FileName="Assets\Scripts\ModelUpdateManager.cs" Line="60" Column="83" />
+      <File FileName="Assets\Scripts\LabelManager.cs" Line="49" Column="34" />
+      <File FileName="Assets\Scripts\Model.cs" Line="56" Column="2" />
+      <File FileName="Assets\Scripts\ButtonActiveManager.cs" Line="41" Column="88" />
+      <File FileName="..\..\Documents\GitHub\Robot-Survival\RoboSurvive\Assets\Scripts\StorySelector.cs" Line="75" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
